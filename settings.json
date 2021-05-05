@@ -1,0 +1,50 @@
+{
+  "sahip": "",
+  "prefix": "",
+  "voiceChannel": "",
+  "token": "",
+  "guildID": "",
+  
+  "no": "",
+  "yes": "",
+  
+  "botCommands": "",
+  "üstyetki": "",
+  "transport": "",
+
+  "banHammer": "",
+  "jailHammer": "",
+  "muteHammer": "",
+  "vmuteHammer": "",
+  
+  
+  "jailRol": "",
+  "muteRol": "",
+  "vmuteRol": "", 
+  
+  
+  "banLog": "",
+  "jailLog": "",
+  "muteLog": "",
+  "vmuteLog": "",
+  "cezapuan": "",
+  
+  "tagRol": "",
+  "tagLog": "",
+  "tag": "",
+  "unTag": "",
+  
+  "enAltYetkiliRol": "",
+  "kayıtsız": "",
+
+  "pubID": "", 
+  "privID": "",
+  "teyitID": "",
+  "aloneID": "",
+
+  "genelChat": "",
+  "sesLogKanali": "",
+
+  "banLimit": 3
+  
+}
