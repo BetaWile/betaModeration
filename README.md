@@ -7,7 +7,7 @@
 * Daha sonra klasörünün içindeki configs klasörünün içine gir `settings.json` dosyasının içindeki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
-* Kurulum bittikten sonra ```npm start``` yaz ve botu başlat.
+* Kurulum bittikten sonra ```npm beta.js``` yaz ve botu başlat.
 
 Tada 🎉. Artık moderasyon botun hazır. Dilediğin gibi kullanabilirsin.
 
