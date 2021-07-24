@@ -1,4 +1,4 @@
-# Discord Guard Bot
+# Discord Moderasyon Bot
 
 
  - [Discord Moderasyon Bot](https://github.com/beT4w/bet4Moderation2)
