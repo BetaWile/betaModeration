@@ -1,0 +1,28 @@
+{
+  "Yetkili": {
+    "abilityYT": "",
+    "banYT": "",
+    "jailYT": "",
+    "muteYT": "",
+    "vmuteYT": ""
+  },
+  "Roller": {
+    "jailRol": "",
+    "muteRol": "",
+    "unregisterRol": ""
+
+  },
+  "Log": {
+    "banLog": "",
+    "jailLog": "",
+    "muteLog": "",
+    "vmuteLog": "",
+    "cezapuanlog": "",
+    "genelChat": "",
+    "sesLog": ""
+  },
+  "Diger": {
+     "yes": "",
+     "no":""
+  }
+}
