@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client()
 const Settings = require("./beta/Settings/Config.json");
-const Main = require("./beta/Settings/Settings.json");
+const betaconf = require("./beta/Settings/Settings.json");
 const fs = require("fs");
 
 require('./beta/Util/betaLoader')(client);
@@ -26,4 +26,4 @@ fs.readdir("./beta/Events", (err, files) => {
   });
 });
 
-client.login(Main.Token).catch(() => console.log('Tokeni kontrol ediniz.'))
+client.login(betaconf.Token).catch(() => console.log('Tokeni kontrol ediniz.'));
