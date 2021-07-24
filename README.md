@@ -82,7 +82,7 @@
   - [x] Sicil sistemi
   - [x] Cezapuan Sistemi
   - [x] Ses Log
-  - [x] İltifat
+  - [x] İltifat Sistemi
 ## };
 
 # İletişim
