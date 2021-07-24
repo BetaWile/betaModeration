@@ -27,5 +27,4 @@ fs.readdir("./beta/Events", (err, files) => {
   });
 });
 
-
 client.login(Main.Token).catch(() => console.log('Tokeni kontrol ediniz.'))
