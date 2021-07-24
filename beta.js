@@ -1,8 +1,8 @@
 const Discord = require("discord.js");
 const client = new Discord.Client()
-const fs = require("fs");
 const Settings = require("./beta/Settings/Config.json");
 const Main = require("./beta/Settings/Settings.json");
+const fs = require("fs");
 
 
 require('./beta/Util/betaLoader')(client);
