@@ -1,12 +1,12 @@
 const Discord = require('discord.js');
-const Main = require('../Settings/Settings.json');
+const betaconf = require('../Settings/Settings.json');
 const db = require('quick.db');
 
 module.exports = async message => {
 
   if (message.author.bot || !message.guild || !message.content) return;
   let client = message.client;
-  let prefix = Main.Prefix.filter(p => message.content.startsWith(p))[0]; 
+  let prefix = betaconf.Prefix.filter(p => message.content.startsWith(p))[0]; 
   if (!prefix) return;
   let args = message.content.split(" ").slice(1);
   let command = message.content.split(" ")[0].slice(prefix.length);
