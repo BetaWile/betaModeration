@@ -1,7 +1,7 @@
 # Discord Moderasyon Bot
 
 
- - [Discord Moderasyon Bot](https://github.com/beT4w/bet4Moderation2)
+ - [Discord Moderasyon Bot](https://github.com/beT4w/bet4Moderation)
       - [Kurulum](#kurulum)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
