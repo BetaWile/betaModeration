@@ -4,7 +4,6 @@ const Settings = require("./beta/Settings/Config.json");
 const Main = require("./beta/Settings/Settings.json");
 const fs = require("fs");
 
-
 require('./beta/Util/betaLoader')(client);
 
 client.commands = new Discord.Collection();
